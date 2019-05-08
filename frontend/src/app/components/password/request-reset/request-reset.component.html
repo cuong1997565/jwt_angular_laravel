@@ -1,0 +1,22 @@
+<div class="mt-4 col-8 offset-2">
+  <div class="cart">
+    <div class="card-header">Reset Password Email</div>
+    <div class="card-body">
+       <form #RequestResetForm=ngForm (ngSubmit)="onSubmit()">
+         <div class="form-group">
+           <label for="email">Email address:</label>
+           <input type="email" 
+                 [(ngModel)]="form.email" 
+                 class="form-control" 
+                 [ngModelOptions]="{standalone: true}"
+                 id="email">
+         </div>
+         <div class="form-group row">
+           <div class="col-sm-12 ">
+               <button type="submit" class="btn btn-primary" [disabled]="!RequestResetForm.valid">Send Password Reset Email</button>
+           </div>
+         </div>
+       </form> 
+    </div>
+  </div>
+</div>

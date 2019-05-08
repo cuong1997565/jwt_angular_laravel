@@ -1,0 +1,259 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/jwt_laravel_angular/frontend
+> git rev-parse --show-toplevel
+> git status -z -u
+> git rev-parse --show-toplevel
+> git symbolic-ref --short HEAD
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/signup/signup.component.ts
+> git ls-files --stage -- src/app/components/signup/
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/signup/signup.component.ts
+> git ls-files --stage -- src/app/components/signup/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/request-reset/request-reset.component.ts
+> git ls-files --stage -- src/app/components/password/request-reset/
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/app.module.ts
+> git check-ignore -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git show :src/app/app.component.html
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/app.component.html
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/Service/auth.service.ts
+> git ls-files --stage -- src/app/Service/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/Service/token.service.ts
+> git ls-files --stage -- src/app/Service/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git check-ignore -z --stdin
+> git show :package.json
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/components/password/response-reset/response-reset.component.ts
+> git ls-files --stage -- src/app/components/password/response-reset/
