@@ -257,3 +257,28 @@ fatal: not a git repository (or any of the parent directories): .git
 > git ls-files --stage -- src/app/components/login/
 > git show :src/app/components/password/response-reset/response-reset.component.ts
 > git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/components/password/response-reset/response-reset.component.html
+> git ls-files --stage -- src/app/components/password/response-reset/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git show :src/app/Service/jarwis.service.ts
+> git ls-files --stage -- src/app/Service/
+> git show :src/app/components/login/login.component.ts
+> git ls-files --stage -- src/app/components/login/
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /var/www/jwt_laravel_angular
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :backend/.gitignore
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :backend/readme.md
+> git check-ignore -z --stdin
